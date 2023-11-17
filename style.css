@@ -324,8 +324,8 @@ font-family: 'Roboto', sans-serif;
   color: rgb(189, 178, 178);
 }
 .bagian1 {
-  /* border: solid 1px; */
-  height: 150px;
+  border: solid 1px;
+  height: 110px;
   width: 400px;
   display: flex;
   flex-direction: column;
